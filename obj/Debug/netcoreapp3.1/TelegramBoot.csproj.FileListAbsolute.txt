@@ -1,0 +1,16 @@
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.exe
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.deps.json
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.runtimeconfig.json
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.runtimeconfig.dev.json
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.dll
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\TelegramBoot.pdb
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\belajar\Telegram\TelegramBoot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.csprojAssemblyReference.cache
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.AssemblyInfoInputs.cache
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.AssemblyInfo.cs
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.csproj.CoreCompileInputs.cache
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.csproj.CopyComplete
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.dll
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.pdb
+E:\belajar\Telegram\TelegramBoot\obj\Debug\netcoreapp3.1\TelegramBoot.genruntimeconfig.cache
